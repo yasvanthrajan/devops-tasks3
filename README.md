@@ -16,3 +16,4 @@ This project demonstrates Git best practices such as branching, pull requests, .
 
 ## Outcome
 - Learned how to manage a project using version control
+## Edited in dev branch
